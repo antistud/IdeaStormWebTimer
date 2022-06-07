@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "IdeaStormWebTimer",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
